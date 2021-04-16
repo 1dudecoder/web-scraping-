@@ -1,0 +1,280 @@
+[
+    {
+        "batman": {
+            "name": "Prithvi Shaw ",
+            "run": "5",
+            "ball": "9",
+            "four": "-",
+            "six": "1",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Shikhar Dhawan ",
+            "run": "0",
+            "ball": "2",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Shimron Hetmyer ",
+            "run": "7",
+            "ball": "13",
+            "four": "-",
+            "six": "1",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Shreyas Iyer (c)",
+            "run": "39",
+            "ball": "32",
+            "four": "-",
+            "six": "0",
+            "sr": "3"
+        }
+    },
+    {
+        "batman": {
+            "name": "Rishabh Pant †",
+            "run": "31",
+            "ball": "29",
+            "four": "-",
+            "six": "4",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Marcus Stoinis ",
+            "run": "53",
+            "ball": "21",
+            "four": "-",
+            "six": "7",
+            "sr": "3"
+        }
+    },
+    {
+        "batman": {
+            "name": "Axar Patel ",
+            "run": "6",
+            "ball": "9",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Ravichandran Ashwin ",
+            "run": "4",
+            "ball": "6",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Kagiso Rabada ",
+            "run": "0",
+            "ball": "0",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Anrich Nortje ",
+            "run": "3",
+            "ball": "1",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "KL Rahul (c)†",
+            "run": "21",
+            "ball": "19",
+            "four": "-",
+            "six": "2",
+            "sr": "1"
+        }
+    },
+    {
+        "batman": {
+            "name": "Mayank Agarwal ",
+            "run": "89",
+            "ball": "60",
+            "four": "-",
+            "six": "7",
+            "sr": "4"
+        }
+    },
+    {
+        "batman": {
+            "name": "Karun Nair ",
+            "run": "1",
+            "ball": "3",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Nicholas Pooran ",
+            "run": "0",
+            "ball": "3",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Glenn Maxwell ",
+            "run": "1",
+            "ball": "4",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Sarfaraz Khan ",
+            "run": "12",
+            "ball": "12",
+            "four": "-",
+            "six": "2",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Krishnappa Gowtham ",
+            "run": "20",
+            "ball": "14",
+            "four": "-",
+            "six": "1",
+            "sr": "1"
+        }
+    },
+    {
+        "batman": {
+            "name": "Chris Jordan ",
+            "run": "5",
+            "ball": "6",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "batman": {
+            "name": "Mohammed Shami ",
+            "run": "0",
+            "ball": "0",
+            "four": "-",
+            "six": "0",
+            "sr": "0"
+        }
+    },
+    {
+        "bowler_name": "Sheldon Cottrell",
+        "over": "4",
+        "madein": "0",
+        "run": "24",
+        "wicket": "2",
+        "econ": "6.00"
+    },
+    {
+        "bowler_name": "Mohammed Shami",
+        "over": "4",
+        "madein": "0",
+        "run": "15",
+        "wicket": "3",
+        "econ": "3.75"
+    },
+    {
+        "bowler_name": "Chris Jordan",
+        "over": "4",
+        "madein": "0",
+        "run": "56",
+        "wicket": "0",
+        "econ": "14.00"
+    },
+    {
+        "bowler_name": "Krishnappa Gowtham",
+        "over": "4",
+        "madein": "0",
+        "run": "39",
+        "wicket": "0",
+        "econ": "9.75"
+    },
+    {
+        "bowler_name": "Ravi Bishnoi",
+        "over": "4",
+        "madein": "0",
+        "run": "22",
+        "wicket": "1",
+        "econ": "5.50"
+    },
+    {
+        "bowler_name": "Anrich Nortje",
+        "over": "4",
+        "madein": "0",
+        "run": "33",
+        "wicket": "0",
+        "econ": "8.25"
+    },
+    {
+        "bowler_name": "Mohit Sharma",
+        "over": "4",
+        "madein": "0",
+        "run": "45",
+        "wicket": "1",
+        "econ": "11.25"
+    },
+    {
+        "bowler_name": "Kagiso Rabada",
+        "over": "4",
+        "madein": "0",
+        "run": "28",
+        "wicket": "2",
+        "econ": "7.00"
+    },
+    {
+        "bowler_name": "Ravichandran Ashwin",
+        "over": "1",
+        "madein": "0",
+        "run": "2",
+        "wicket": "2",
+        "econ": "2.00"
+    },
+    {
+        "bowler_name": "Axar Patel",
+        "over": "4",
+        "madein": "0",
+        "run": "14",
+        "wicket": "1",
+        "econ": "3.50"
+    },
+    {
+        "bowler_name": "Marcus Stoinis",
+        "over": "3",
+        "madein": "0",
+        "run": "29",
+        "wicket": "2",
+        "econ": "9.66"
+    }
+]
